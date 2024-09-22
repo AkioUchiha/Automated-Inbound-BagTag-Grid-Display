@@ -16,8 +16,13 @@ Continuous Updates: The program takes new screenshots every 0.5 seconds for real
 Libraries Used:
 
 pyautogui for capturing screenshots
+
 csv module for reading the CSV file
+
 tkinter for overlay display
+
 pynput for screen coordinate selection
+
 pytesseract for text detection (OCR)
+
 This program is ideal for use cases where real-time screen text needs to be detected and matched with predefined data, with results dynamically displayed on the screen.
